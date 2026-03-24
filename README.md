@@ -1,5 +1,5 @@
 # 👤 About Me:
-Salut sunt George , aspir sa devin un Full-Stack Developer, imi place foarte mult Front-Endul , dar de curand am incercat sa invat si putin despre Back-end , si imi planuiesc in viitorul apropiat sa dezvolt Aplicatii Web cu cea ce am învățat <br> Pentru proiectul de Licenta imi propun sa realizez o platforma educationala cu asistent de AI , insa mai am in plan si o Aplicatie care iti creeaza un Plan Alimentar cu ajutorul diferitelor informatii oferite de utilizator tot prin AI
+Salut sunt George , aspir sa devin un Full-Stack Developer, imi place foarte mult Front-Endul , dar de curand am incercat sa invat si putin despre Back-end , si imi planuiesc in viitorul apropiat sa dezvolt Aplicatii Web cu cea ce am învățat <br><br> Pentru proiectul de Licenta imi propun sa realizez o platforma educationala cu asistent de AI , insa mai am in plan si o Aplicatie care iti creeaza un Plan Alimentar cu ajutorul diferitelor informatii oferite de utilizator tot prin AI
 
 
 ## 🌐 Socials:
